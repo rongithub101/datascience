@@ -1,0 +1,2 @@
+In this subfolder called Feature_Engineering, I hvae two jyputer notebooks that go through examples of how to transform categorical values into numerical values by using one hot encoding, applying custom methods -> label encoders -> MinMax Scaler/Standard Scaler, applying differnt libaries such as pycountry to transform the country names into their respective continents then applying label encoder them standard scaler! 
+I also go through examples of how to scale numerical values by using MinMax Scaler, Standard Scaler, Normalization and many others. 
