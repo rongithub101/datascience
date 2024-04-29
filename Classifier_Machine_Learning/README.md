@@ -1,0 +1,3 @@
+In this sub folder called Classifier_Machine Learning, all of my code is in the jyputer notebook labeled Classifier_models. In this jyputer notebook, my main goal was to experiment with different machine learning classifier models(such as Logistic Regression, Random Forests, SVM, Gradient Boosting) and using GridSearchCV to get the optimal hyperparamenters for the respective machine learning classifier models. 
+I only performed minimal feature engineering(transforming the timestamp column into two different standardized numerically encoded columms(one for the season and one whether it is AM/PM)). 
+I hope you enjoy :))
